@@ -6,7 +6,7 @@ Code &amp; Read_Me for resubmit
 <h2>Motivation:</h2>
 <p>My aim is to produce automatic classification of images through machine learning, because my undergraduate major is graphic design, so I am interested in this aspect of graphic classification, which will help me when I go to produce some similar graphics or capture images.</p>
 
-<h2>Process:<h2/>
+<h2>Process:</h2>
 <p>In my study I focused on tensoflow's tutorial on classifying cifar graphics using CNN (Convolutional Neural Network), due to technical issues I used the simpler FNN for machine learning and used the same cifar-10 dataset as in the tutorial as my training set. In the process I learned how to use matplotlib for data visualisation, which was very interesting, matplotlib as a plotting library for python is very nice to use, and it allows for many types of graphical objects, even simple 3D animations, which is quite different from the adobe indesign graphs that I used to create.
 
 I visualised the images of the dataset using matplotlib and visualised their grey scale channels separately, (0-1) pixel distribution of the images and tabulated the distribution and regions of the grey scale values of the images.
