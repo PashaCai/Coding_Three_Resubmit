@@ -33,13 +33,13 @@ Code &amp; Read_Me for resubmit
 <hr>
 <h2>Evaluation and Reflection：</h2>
 <p>For this difference in accuracy (CNN test_acc 70.72%, FNN test_acc 28.94%), after referring to Dufeng's (2022) article on CNN infrastructure and JM's (2023) analysis of the reasons why CNNs perform so well on images, I've come to the conclusion that the biggest problem lies in the difference between convolutional and fully connected layers. fully-connected layer difference.
-<hr>
+
 Local connectivity and weight sharing: whereas fully connected layers are densely connected, convolutional layers only use convolutional kernels to process locally, which actually corresponds to the characteristics of the image. In visual recognition, critical image features, edges, corners, etc. occupy only a small portion of the whole image, and the likelihood that there is a connection or influence between pixels that are far apart is very low, while local pixels have a strong correlation. This mechanism both reduces the number of parameters of the model and improves the ability of the convolutional neural network to perceive multidimensional data such as images.
-<hr>
+
 Multi-Layer Convolutional Operation: In convolutional neural networks, high-level features of an image can be continuously extracted by stacking multiple convolutional layers with pooling operations of different sizes. Through multi-layer convolutional operations, the neural network can learn layer by layer from simple features (e.g., edges) to complex abstract features (e.g., shape of the object, texture, etc.). (Fully connected layers are not possible due to the large number of parameters).
-<hr>
+
 Therefore, CNN applications generally require local correlation of the convolved objects, which is exactly what images have, so it makes sense that CNNs are used in the image field.
-<hr>
+
 Second I would like to point out one thing, my thinking has not really been very correct, I have a very stereotypical approach to code and this has led to a very monotonous output, although I was able to visualise some of the dataset's content with the help of matplotlib, it was not aesthetically pleasing overall. I felt very strange at length while writing this code, unlike painting, which gives me a sense of freedom, a sense of easy writing, but not code. Although I think they are similar in nature, both of them are created from scratch, but the code gives me a sense of constraint, I think this is caused by my lack of personal ability, the use of code to write installations and images should also be a free thing, but my ability to limit it, I need to make up for this in the future in the future learning of the shortcomings.</p>
 
 
