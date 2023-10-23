@@ -7,7 +7,7 @@ Code &amp; Read_Me for resubmit
 <p>My aim is to produce automatic classification of images through machine learning, because my undergraduate major is graphic design, so I am interested in this aspect of graphic classification, which will help me when I go to produce some similar graphics or capture images.</p>
 
 <h2>Process:<h2/>
-In my study I focused on tensoflow's tutorial on classifying cifar graphics using CNN (Convolutional Neural Network), due to technical issues I used the simpler FNN for machine learning and used the same cifar-10 dataset as in the tutorial as my training set. In the process I learned how to use matplotlib for data visualisation, which was very interesting, matplotlib as a plotting library for python is very nice to use, and it allows for many types of graphical objects, even simple 3D animations, which is quite different from the adobe indesign graphs that I used to create.
+<p>In my study I focused on tensoflow's tutorial on classifying cifar graphics using CNN (Convolutional Neural Network), due to technical issues I used the simpler FNN for machine learning and used the same cifar-10 dataset as in the tutorial as my training set. In the process I learned how to use matplotlib for data visualisation, which was very interesting, matplotlib as a plotting library for python is very nice to use, and it allows for many types of graphical objects, even simple 3D animations, which is quite different from the adobe indesign graphs that I used to create.
 
 I visualised the images of the dataset using matplotlib and visualised their grey scale channels separately, (0-1) pixel distribution of the images and tabulated the distribution and regions of the grey scale values of the images.
 
@@ -29,8 +29,8 @@ In the end my test using FCNN was only 28.94% accurate and I think I was missing
 
 After talking to my instructor I realised that I was lacking in this assignment and that I wasn't using some of the key points from the class, so I returned to re-learn and re-read the parts of the class that had sections on CNNs and datasets and focused on the tutorial from tensorflow (2022) "Using How to Train a Simple Convolutional Neural Network (CNN) to classify CIFAR images", while an article on CNNs by Sorokina (2017) and a detailed explanation of Convolutional Neural Networks by Shining (2022) also helped me a lot.
 
-In the subsequent work I improved the last part of the code, I used Convolutional Neural Network (CNN) to classify CIFAR images, and added predict to test the trained model, and finally compared the two different types of data, I concluded that the validation accuracy of CNN is much higher than that of my previous FNN for both methods, based on the randomly visualisation of the prediction results of the selected test set, it can be seen that the accuracy of its CNN prediction is higher.
-<hr>
+In the subsequent work I improved the last part of the code, I used Convolutional Neural Network (CNN) to classify CIFAR images, and added predict to test the trained model, and finally compared the two different types of data, I concluded that the validation accuracy of CNN is much higher than that of my previous FNN for both methods, based on the randomly visualisation of the prediction results of the selected test set, it can be seen that the accuracy of its CNN prediction is higher.</p>
+
 <h2>Evaluation and Reflection：</h2>
 <p>For this difference in accuracy (CNN test_acc 70.72%, FNN test_acc 28.94%), after referring to Dufeng's (2022) article on CNN infrastructure and JM's (2023) analysis of the reasons why CNNs perform so well on images, I've come to the conclusion that the biggest problem lies in the difference between convolutional and fully connected layers. fully-connected layer difference.
 
