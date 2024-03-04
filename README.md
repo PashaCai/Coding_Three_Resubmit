@@ -1,6 +1,9 @@
 # Coding_Three_Resubmit
 Code &amp; Read_Me for resubmit
 
+<p>URL for Video:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d368225b-4fc8-4abe-a7b6-b022012246a0&start=0</p>
+<p>URL for The CIFAR-10 dataset:https://www.cs.toronto.edu/~kriz/cifar.html</p>
+
 <h2>Purpose:</h2>
 <p>To achieve automatic classification of images after they are provided, or to predict categories, by means of a trained model.</p>
 <h2>Motivation:</h2>
