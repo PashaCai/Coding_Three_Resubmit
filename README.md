@@ -47,15 +47,19 @@ Second I would like to point out one thing, my thinking has not really been very
 
 
 <h2>Reference List</h2>
-<p>1.Shining, L (2022) ‘Fully Connected Neural Networks Explained’ , CSDN blog, 25 September. Available at: https://blog.csdn.net/ShiningLeeJ/article/details/126676581 (Accessed: 11 May 2023).</p>
 
-<p>2.TensorFlow (2022) Convolutional Neural Network, CNN. Available at: https://www.tensorflow.org/tutorials/images/cnn?hl=zh-cn (Accessed: 3 October 2023).</p>
+<p>1.Du, F (2022) ‘[Deep Learning] Basics - CNN: Image Classification’ , CSDN blog, 10 April. Available at: https://blog.csdn.net/fengdu78/article/details/124089531 (Accessed: 5 October 2023).</p>
 
-<p>3.Sorokina, K (2017) Image Classification with Convolutional Neural Networks. Available at:https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8 (Accessed: 3 October 2023)</p>
-
-<p>4.Shining, L (2022) ‘Convolutional Neural Networks Explained’ , CSDN blog, 13 September. Available at: https://blog.csdn.net/ShiningLeeJ/article/details/126827739 (Accessed: 4 October 2023).</p>
-
-<p>5.Du, F (2022) ‘[Deep Learning] Basics - CNN: Image Classification’ , CSDN blog, 10 April. Available at: https://blog.csdn.net/fengdu78/article/details/124089531 (Accessed: 5 October 2023).</p>
-
-<p>6.JM-0808 (2023) ‘Reasons why CNNs perform well on images’ , CSDN blog, 31 May. 
+<p>2.JM-0808 (2023) ‘Reasons why CNNs perform well on images’ , CSDN blog, 31 May. 
 Available at: https://blog.csdn.net/weixin_56033928/article/details/130973233 (Accessed: 5 October 2023).</p>
+
+<p>3.Shining, L (2022) ‘Fully Connected Neural Networks Explained’ , CSDN blog, 25 September. Available at: https://blog.csdn.net/ShiningLeeJ/article/details/126676581 (Accessed: 11 May 2023).</p>
+
+<p>4.Sorokina, K (2017) Image Classification with Convolutional Neural Networks. Available at:https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8 (Accessed: 3 October 2023)</p>
+
+<p>5.Shining, L (2022) ‘Convolutional Neural Networks Explained’ , CSDN blog, 13 September. Available at: https://blog.csdn.net/ShiningLeeJ/article/details/126827739 (Accessed: 4 October 2023).</p>
+
+<p>6.TensorFlow (2022) Convolutional Neural Network, CNN. Available at: https://www.tensorflow.org/tutorials/images/cnn?hl=zh-cn (Accessed: 3 October 2023).</p>
+
+<p>7.Zhingjun, T(2022) ‘The Most Detailed Tutorial on Building Fully Connected Neural Network Models on the Site’. CSDN blog, 03 May. Available at: http://t.csdnimg.cn/BwpeO (Accessed: 12 May 2023).</p>
+
