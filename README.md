@@ -14,7 +14,7 @@ Code &amp; Read_Me for resubmit
 
 I visualised the images of the dataset using matplotlib and visualised their grey scale channels separately, (0-1) pixel distribution of the images and tabulated the distribution and regions of the grey scale values of the images.
 
-The next part of the study was about neural networks, which is honestly a bit boring and difficult for someone like me with no basic knowledge, but I referred to the tutorial "Fully Connected Neural Networks Explained" by Shining (2022), which teaches you to understand and use the FNN in a much more understandable way. That's why I ended up using FNN.
+The next part of the study was about neural networks, which is honestly a bit boring and difficult for someone like me with no basic knowledge, but I referred to the tutorial "Fully Connected Neural Networks Explained" by Shining (2022) and Zhingjun(2022)'s tutorial "The Most Detailed Tutorial on Building Fully Connected Neural Network Models on the Site", these tutorials teach you to understand and use the FNN in a much more understandable way. That's why I ended up using FNN.
 
 While the tensorflow tutorial uses CNN and the Keras Sequential API and is probably more accessible, I couldn't use it because he didn't teach CNN in a very detailed way, and it would be plagiarism to just copy and paste it.
 
